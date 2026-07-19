@@ -1,0 +1,6 @@
+{
+  "name": "CredMatch Pro",
+  "description": "Transparent Skill-Based Hiring Platform with deterministic matching, skill gap simulation, and live candidate leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
