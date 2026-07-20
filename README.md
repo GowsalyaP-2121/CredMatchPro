@@ -391,7 +391,7 @@ Built for **CredX Hiring Hackathon 2.0**
 
 # Demo video
 
-gdrive : https://drive.google.com/drive/folders/1VJxx9udlYA4HtgFhrmJ6Zs-KR9lQNOB4?usp=drive_link
+drive link : https://drive.google.com/drive/folders/1VJxx9udlYA4HtgFhrmJ6Zs-KR9lQNOB4?usp=drive_link
 
 # 📄 License
 
